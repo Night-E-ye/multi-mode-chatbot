@@ -1,6 +1,6 @@
 # Multi-Mode AI Chatbot (Ollama)
 
-A full-stack, 100% private AI assistant built with React, Node.js, and TypeScript. This application leverages the Ollama runtime to serve advanced Large Language Models (LLMs) like Llama 3.2 directly from your local hardware, ensuring no data ever leaves your machine.
+A full-stack, private AI assistant built with React, Node.js, and TypeScript. This application leverages the Ollama runtime to serve advanced Large Language Models (LLMs) like Llama 3.2 directly from your local hardware, ensuring no data ever leaves your machine.
 ## 📸 Screenshots
 **Desktop Interface**
 <img width="1908" height="888" alt="image" src="https://github.com/user-attachments/assets/3f1e4ad2-35dc-4c1c-9123-c095491bc998" />
@@ -11,7 +11,7 @@ A full-stack, 100% private AI assistant built with React, Node.js, and TypeScrip
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Multi-Persona AI**: Change AI behavior instantly via top-level mode selection.
 - **Gemini 3 Thinking**: Powered by **Gemini 3 Flash Preview** with `minimal` thinking level for near-instant responses.
@@ -21,7 +21,7 @@ A full-stack, 100% private AI assistant built with React, Node.js, and TypeScrip
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: React, Vite, Axios
 - **Backend**: Node.js, Express, TypeScript
@@ -29,7 +29,7 @@ A full-stack, 100% private AI assistant built with React, Node.js, and TypeScrip
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 Open your terminal and run the following command to download the project:

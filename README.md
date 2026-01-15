@@ -4,12 +4,11 @@ A full-stack, 100% private AI assistant built with React, Node.js, and TypeScrip
 
 ## 📸 Screenshots
 
-| Desktop Interface | Mode Selection |
-| :--- | :--- |
-| ![Chat View](<img width="1908" height="888" alt="image" src="https://github.com/user-attachments/assets/3f1e4ad2-35dc-4c1c-9123-c095491bc998" />
-) | ![Icons View](<img width="560" height="169" alt="image" src="https://github.com/user-attachments/assets/d45df3fd-cf82-4f39-beaf-0f9fec5b4738" />
-) |
-| *Chat interface centered and fullscreen* | *AI Personality selection icons* |
+Desktop Interface 
+![Chat View](<img width="1908" height="888" alt="image" src="https://github.com/user-attachments/assets/3f1e4ad2-35dc-4c1c-9123-c095491bc998" />
+![Icons View](<img width="560" height="169" alt="image" src="https://github.com/user-attachments/assets/d45df3fd-cf82-4f39-beaf-0f9fec5b4738" />
+
+
 
 ---
 
